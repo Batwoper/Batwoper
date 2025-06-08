@@ -9,10 +9,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Batwoper&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🔗 Connect with me  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matthew.fernandez.148182/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-nathan-fernandez)
