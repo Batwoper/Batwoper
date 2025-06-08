@@ -16,11 +16,9 @@
 
 ## 📈 GitHub Stats
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Batwoper&include_all_commits=true&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&include_all_commits=true&include_forks=true&show_icons=true)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwoper&include_all_commits=true&layout=compact&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Batwoper&theme=github&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&include_all_commits=true&include_forks=true&layout=compact)
 
 ---
 
