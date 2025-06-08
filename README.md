@@ -9,16 +9,7 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Batwoper&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatwoperE&include_all_commits=true&include_forks=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwoper&include_all_commits=true&include_forks=true&layout=compact)
 
 ---
 
