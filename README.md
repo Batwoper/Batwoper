@@ -1,9 +1,3 @@
-## Hello 👋, I'm Matthew Fernandez
-
-> A computer science student aspiring to be a game developer 
-
----
-
 ### 📎 Resume  
 📄 [View my resume](https://docs.google.com/document/d/1usTc2146QIaY--Y61zlwzSRN8t4Dg0AVt2xF9wUBG88/edit?usp=sharing)
 
