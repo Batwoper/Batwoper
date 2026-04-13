@@ -1,5 +1,5 @@
 ### 📎 Resume  
-📄 [View my resume](https://docs.google.com/document/d/1usTc2146QIaY--Y61zlwzSRN8t4Dg0AVt2xF9wUBG88/edit?usp=sharing)
+📄 [View my resume](https://drive.google.com/file/d/1M4ghhaY-8nnFgpL-FN42o6yV9ACaJSXj/view?usp=sharing)
 
 ---
 
